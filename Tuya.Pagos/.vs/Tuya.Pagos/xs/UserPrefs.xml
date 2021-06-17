@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{F07BC082-8F81-4DEE-ABA9-C359E3F539B9}|Tuya.Pagos">
+  <MonoDevelop.Ide.ItemProperties.Tuya.Pagos.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tuya.Pagos/Controllers/PagosController.cs">
+    <Files>
+      <File FileName="Tuya.Pagos/appsettings.json" Line="2" Column="1" />
+      <File FileName="Tuya.Pagos/Startup.cs" Line="66" Column="16" />
+      <File FileName="Tuya.Pagos/Handlers/DependencyInjectionHandler.cs" Line="1" Column="1" />
+      <File FileName="Tuya.Pagos/Handlers/SwaggerHandler.cs" Line="1" Column="1" />
+      <File FileName="Tuya.Pagos/Controllers/PagosController.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tuya.Pagos" expanded="True">
+            <Node name="Tuya.Pagos.WebApi" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
