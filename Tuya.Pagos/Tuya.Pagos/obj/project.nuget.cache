@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "QjpIPHnd3kN+gYW6jEJnpF3dKXsqOhKGV47DmhQFxpAr2OIDGZqX2JdL0vWopoRmjonq5zFXpF+sdvnuq0wc3g==",
+  "dgSpecHash": "ufgOsPBKfGLr+3S3NTGHNwUCjs/0rSG9qp1xnk7QucUm7P2d+ol39DTFxEd6WKGVN7rIVEx8fjr2dTEv5pYbyw==",
   "success": true,
   "projectFilePath": "/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/Tuya.Pagos.WebApi.csproj",
   "expectedPackageFiles": [
     "/Users/macos/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/macos/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/macos/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512",
     "/Users/macos/.nuget/packages/swashbuckle.aspnetcore/6.1.4/swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
     "/Users/macos/.nuget/packages/swashbuckle.aspnetcore.swagger/6.1.4/swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
     "/Users/macos/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.1.4/swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",

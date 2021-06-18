@@ -23,3 +23,4 @@
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.dll
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.pdb
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.genruntimeconfig.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/mono_crash.11a6748113.0.json

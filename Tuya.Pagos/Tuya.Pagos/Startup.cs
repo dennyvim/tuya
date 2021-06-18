@@ -46,8 +46,6 @@ namespace Tuya.Pagos
                 app.UseDeveloperExceptionPage();
             }
 
-
-
             app.UseHttpsRedirection();
 
             app.UseRouting();
@@ -62,9 +60,10 @@ namespace Tuya.Pagos
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Foo API V1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Tuya Pagos API V1");
             });
         }
+
         private void AddSwagger(IServiceCollection services)
         {
             services.AddSwaggerGen(options =>
@@ -73,15 +72,15 @@ namespace Tuya.Pagos
 
                 options.SwaggerDoc(groupName, new OpenApiInfo
                 {
-                    Title = $"Foo {groupName}",
+                    Title = $"API Tuya Pagos {groupName}",
                     Version = groupName,
-                    Description = "Foo API",
+                    Description = "Tuya Pagos API",
                     Contact = new OpenApiContact
                     {
-                        Name = "Foo Company",
+                        Name = "Tuya",
                         Email = string.Empty,
-                        Url = new Uri("https://foo.com/"),
-                    }
+                        Url = new Uri("https://www.tuya.com.co"),
+                    },
                 });
             });
         }
