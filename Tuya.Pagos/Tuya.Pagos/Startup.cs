@@ -6,11 +6,14 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Tuya.Pagos.Data.Context;
+using Tuya.Pagos.WebApi.Handlers;
 
 namespace Tuya.Pagos
 {
@@ -29,13 +32,19 @@ namespace Tuya.Pagos
             services.AddControllers();
             services.AddCors(options =>
             {
-
                 options.AddPolicy("CorsPolicy",
                     p => p.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+            });
+            AddSwagger(services);
 
+            services.AddDbContext<PagosContext>(options =>
+            {
+
+                options.UseSqlServer(Configuration.GetConnectionString("Default"));
             });
 
-            AddSwagger(services);
+            DependencyInjectionHandler.DependencyInjectionConfig(services);
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
