@@ -11,10 +11,13 @@ namespace Tuya.Pagos.Data.Context
         {
         }
 
-        //DbSet Entities
+        // DbSet Entities
+        public DbSet<Evento> Eventos { get; set; }
+        public DbSet<Producto> Productos { get; set; }
+        public DbSet<Transaccion> Transacciones { get; set; }
+        public DbSet<TransaccionDetalle> TransaccionDetalles { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
 
-
-        public DbSet<Pedido> Pedidos { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
         }

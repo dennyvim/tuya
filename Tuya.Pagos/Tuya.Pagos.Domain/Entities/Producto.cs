@@ -1,15 +1,16 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Tuya.Pagos.Domain.Entities
 {
-    public class Pedido
+    [Table("Tbl_Productos")]
+    public class Producto
     {
-        public Pedido()
+        public Producto()
         {
         }
         [Key]
         public int Id { get; set; }
-        public string Nombre { get; set; }
     }
 }

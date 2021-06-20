@@ -1,33 +1,13 @@
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.csprojAssemblyReference.cache
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.AssemblyInfoInputs.cache
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.AssemblyInfo.cs
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.csproj.CoreCompileInputs.cache
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.MvcApplicationPartsAssemblyInfo.cs
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.MvcApplicationPartsAssemblyInfo.cache
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/mono_crash.11a6748113.0.json
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/mono_crash.11a6748113.1.json
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/mono_crash.11a6748113.2.json
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.deps.json
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.runtimeconfig.json
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.runtimeconfig.dev.json
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.dll
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.pdb
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/staticwebassets/Tuya.Pagos.WebApi.StaticWebAssets.Manifest.cache
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/staticwebassets/Tuya.Pagos.WebApi.StaticWebAssets.xml
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/scopedcss/bundle/Tuya.Pagos.WebApi.styles.css
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.RazorTargetAssemblyInfo.cache
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.csproj.CopyComplete
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.dll
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.pdb
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.genruntimeconfig.cache
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/mono_crash.11a6748113.0.json
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.Application.dll
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.Application.pdb
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/mono_crash.11a6748113.1.json
-/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/mono_crash.11a6748113.2.json
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Humanizer.dll
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
@@ -50,7 +30,11 @@
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
@@ -70,7 +54,100 @@
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.Application.dll
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.Data.dll
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.Domain.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.Application.pdb
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.Data.pdb
 /Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.Domain.pdb
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.AssemblyInfo.cs
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/staticwebassets/Tuya.Pagos.WebApi.StaticWebAssets.Manifest.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/staticwebassets/Tuya.Pagos.WebApi.StaticWebAssets.xml
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/scopedcss/bundle/Tuya.Pagos.WebApi.styles.css
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.RazorTargetAssemblyInfo.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.csproj.CopyComplete
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.pdb
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.genruntimeconfig.cache
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/appsettings.Development.json
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/mono_crash.11a6748113.0.json
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/mono_crash.11a6748113.1.json
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/mono_crash.11a6748113.2.json
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/appsettings.json
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.exe
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.deps.json
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.runtimeconfig.json
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.runtimeconfig.dev.json
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.pdb
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Humanizer.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.Application.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.Data.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.Domain.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.Application.pdb
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.Data.pdb
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.Domain.pdb
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.csprojAssemblyReference.cache
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.AssemblyInfoInputs.cache
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.AssemblyInfo.cs
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.csproj.CoreCompileInputs.cache
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.MvcApplicationPartsAssemblyInfo.cs
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.MvcApplicationPartsAssemblyInfo.cache
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/staticwebassets/Tuya.Pagos.WebApi.StaticWebAssets.Manifest.cache
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/staticwebassets/Tuya.Pagos.WebApi.StaticWebAssets.xml
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/scopedcss/bundle/Tuya.Pagos.WebApi.styles.css
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.RazorTargetAssemblyInfo.cache
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.csproj.CopyComplete
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.pdb
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.genruntimeconfig.cache

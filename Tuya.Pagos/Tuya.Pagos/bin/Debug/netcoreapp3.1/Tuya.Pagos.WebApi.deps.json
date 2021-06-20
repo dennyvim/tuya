@@ -1462,6 +1462,9 @@
         }
       },
       "Tuya.Pagos.Application/1.0.0": {
+        "dependencies": {
+          "Tuya.Pagos.Data": "1.0.0"
+        },
         "runtime": {
           "Tuya.Pagos.Application.dll": {}
         },

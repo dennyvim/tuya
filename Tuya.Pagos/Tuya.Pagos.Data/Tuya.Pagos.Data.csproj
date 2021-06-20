@@ -19,8 +19,12 @@
   <ItemGroup>
     <Folder Include="Context\" />
     <Folder Include="Repositories\" />
+    <Folder Include="UnitOfWork\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Tuya.Pagos.Domain\Tuya.Pagos.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="UnitOfWork\" />
   </ItemGroup>
 </Project>

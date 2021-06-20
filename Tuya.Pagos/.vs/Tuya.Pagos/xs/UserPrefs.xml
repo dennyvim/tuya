@@ -1,26 +1,17 @@
 ﻿<Properties StartupConfiguration="{F07BC082-8F81-4DEE-ABA9-C359E3F539B9}|Tuya.Pagos">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tuya.Pagos.Data/UnitOfWork/PagosUnitOfWork.cs">
+    <Files>
+      <File FileName="Tuya.Pagos/Controllers/PagosController.cs" Line="18" Column="7" />
+      <File FileName="Tuya.Pagos/Controllers/UsuarioController.cs" Line="26" Column="53" />
+      <File FileName="Tuya.Pagos.Application/Services/Facturacion/FacturacionService.cs" Line="35" Column="37" />
+      <File FileName="Tuya.Pagos.Domain/Entities/Usuario.cs" Line="12" Column="1" />
+      <File FileName="Tuya.Pagos.Data/UnitOfWork/PagosUnitOfWork.cs" Line="14" Column="1" />
+      <File FileName="Tuya.Pagos.Data/UnitOfWork/IPagosUnitOfWork.cs" Line="10" Column="32" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Tuya.Pagos" expanded="True">
-            <Node name="1. Presentation" expanded="True">
-              <Node name="Tuya.Pagos.WebApi" expanded="True">
-                <Node name="Dependencies" expanded="True">
-                  <Node name="FrameworkReferences" expanded="True" />
-                  <Node name="PackageDependencies" expanded="True" />
-                </Node>
-              </Node>
-            </Node>
-            <Node name="2. Application" expanded="True">
-              <Node name="Tuya.Pagos.Application" expanded="True">
-                <Node name="Services" expanded="True">
-                  <Node name="Facturacion" expanded="True">
-                    <Node name="FacturacionService.cs" selected="True" />
-                  </Node>
-                </Node>
-              </Node>
-            </Node>
             <Node name="3. Domain" expanded="True">
               <Node name="Tuya.Pagos.Domain" expanded="True">
                 <Node name="Entities" expanded="True" />
@@ -28,9 +19,9 @@
             </Node>
             <Node name="4. Infrastructure" expanded="True">
               <Node name="Tuya.Pagos.Data" expanded="True">
-                <Node name="Dependencies" expanded="True" />
-                <Node name="Context" expanded="True" />
-                <Node name="Migrations" expanded="True" />
+                <Node name="UnitOfWork" expanded="True">
+                  <Node name="PagosUnitOfWork.cs" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>

@@ -1598,6 +1598,9 @@
       "Tuya.Pagos.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Tuya.Pagos.Data": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Tuya.Pagos.Application.dll": {}
         },
@@ -6160,7 +6163,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
       }
     }
   }
