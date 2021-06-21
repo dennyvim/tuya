@@ -12,13 +12,18 @@
     <Folder Include="DTO\" />
     <Folder Include="DTO\Services\" />
     <Folder Include="Responses\" />
+    <Folder Include="Services\Usuario\" />
+    <Folder Include="Services\Producto\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Tuya.Pagos.Data\Tuya.Pagos.Data.csproj" />
+    <ProjectReference Include="..\Tuya.Pagos.Domain\Tuya.Pagos.Domain.csproj" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="DTO\" />
     <None Remove="DTO\Services\" />
     <None Remove="Responses\" />
+    <None Remove="Services\Usuario\" />
+    <None Remove="Services\Producto\" />
   </ItemGroup>
 </Project>

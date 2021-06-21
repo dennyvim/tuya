@@ -39,7 +39,6 @@ namespace Tuya.Pagos
 
             services.AddDbContext<PagosContext>(options =>
             {
-
                 options.UseSqlServer(Configuration.GetConnectionString("Default"));
             });
 

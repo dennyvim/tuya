@@ -1599,7 +1599,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Tuya.Pagos.Data": "1.0.0"
+          "Tuya.Pagos.Data": "1.0.0",
+          "Tuya.Pagos.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Tuya.Pagos.Application.dll": {}
@@ -1634,19 +1635,6 @@
         },
         "runtime": {
           "bin/placeholder/Tuya.Pagos.Domain.dll": {}
-        }
-      },
-      "Tuya.Pagos.Models/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Tuya.Pagos.Application": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Tuya.Pagos.Models.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Tuya.Pagos.Models.dll": {}
         }
       },
       "Tuya.Pagos.Utils/1.0.0": {
@@ -6083,11 +6071,6 @@
       "path": "../Tuya.Pagos.Domain/Tuya.Pagos.Domain.csproj",
       "msbuildProject": "../Tuya.Pagos.Domain/Tuya.Pagos.Domain.csproj"
     },
-    "Tuya.Pagos.Models/1.0.0": {
-      "type": "project",
-      "path": "../Tuya.Pagos.Application/Tuya.Pagos.Models/Tuya.Pagos.Models.csproj",
-      "msbuildProject": "../Tuya.Pagos.Application/Tuya.Pagos.Models/Tuya.Pagos.Models.csproj"
-    },
     "Tuya.Pagos.Utils/1.0.0": {
       "type": "project",
       "path": "../Tuya.Pagos.Utils/Tuya.Pagos.Utils.csproj",
@@ -6103,8 +6086,7 @@
       "StyleCop.Analyzers >= 1.1.118",
       "Swashbuckle.AspNetCore >= 6.1.4",
       "Tuya.Pagos.Application >= 1.0.0",
-      "Tuya.Pagos.Data >= 1.0.0",
-      "Tuya.Pagos.Models >= 1.0.0"
+      "Tuya.Pagos.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6134,9 +6116,6 @@
           "projectReferences": {
             "/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/Tuya.Pagos.Application.csproj": {
               "projectPath": "/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/Tuya.Pagos.Application.csproj"
-            },
-            "/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/Tuya.Pagos.Models/Tuya.Pagos.Models.csproj": {
-              "projectPath": "/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/Tuya.Pagos.Models/Tuya.Pagos.Models.csproj"
             },
             "/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Data/Tuya.Pagos.Data.csproj": {
               "projectPath": "/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Data/Tuya.Pagos.Data.csproj"
