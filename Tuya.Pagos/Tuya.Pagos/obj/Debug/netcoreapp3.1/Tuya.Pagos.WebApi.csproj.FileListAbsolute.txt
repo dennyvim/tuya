@@ -151,3 +151,5 @@
 //vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.dll
 //vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.pdb
 //vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/obj/Debug/netcoreapp3.1/Tuya.Pagos.WebApi.genruntimeconfig.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.Utils.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos/bin/Debug/netcoreapp3.1/Tuya.Pagos.Utils.pdb

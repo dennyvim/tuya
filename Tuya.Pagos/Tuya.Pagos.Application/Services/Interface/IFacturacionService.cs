@@ -6,6 +6,6 @@ namespace Tuya.Pagos.Application.Services.Interface
 {
     public interface IFacturacionService
     {
-        Task createUser(UsuarioDto usuario);
+        Task<ResultadoTransaccionDto> CrearPago(CompraDto compraDto);
     }
 }

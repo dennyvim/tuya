@@ -11,6 +11,15 @@ namespace Tuya.Pagos.Domain.Entities
         {
         }
         [Key]
+        [Column("Id")]
         public int Id { get; set; }
+
+        [ForeignKey("Producto")]
+        public int ProductoId { get; set; }
+        public Producto Producto { get; set; }
+
+        [ForeignKey("Transaccion")]
+        public int TransaccionId { get; set; }
+        public Transaccion Transaccion { get; set; }
     }
 }

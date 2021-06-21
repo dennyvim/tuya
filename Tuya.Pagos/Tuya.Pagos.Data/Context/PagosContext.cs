@@ -7,10 +7,6 @@ namespace Tuya.Pagos.Data.Context
     public class PagosContext : DbContext
     {
 
-        public PagosContext(DbContextOptions options) : base(options)
-        {
-        }
-
         // DbSet Entities
         public DbSet<Evento> Eventos { get; set; }
         public DbSet<Producto> Productos { get; set; }
@@ -18,13 +14,9 @@ namespace Tuya.Pagos.Data.Context
         public DbSet<TransaccionDetalle> TransaccionDetalles { get; set; }
         public DbSet<Usuario> Usuarios { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        public PagosContext(DbContextOptions options) : base(options)
         {
         }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            base.OnModelCreating(modelBuilder);
-        }
     }
 }

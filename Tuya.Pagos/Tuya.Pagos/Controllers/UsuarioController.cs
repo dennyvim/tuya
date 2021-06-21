@@ -23,7 +23,7 @@ namespace Tuya.Pagos.WebApi.Controllers
         [HttpPost(Name = "CrearUsuario")]
         public void CrearUsuario(UsuarioDto usuario)
         {
-            _facturacionService.createUser(usuario);
+
         }
     }
 }

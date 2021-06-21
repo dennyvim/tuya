@@ -4,6 +4,7 @@ using Tuya.Pagos.Application.DTO.Services;
 using Tuya.Pagos.Application.Services.Interface;
 using Tuya.Pagos.Data.UnitOfWork;
 using Tuya.Pagos.Domain.Entities;
+using Tuya.Pagos.Utils.Enum;
 
 namespace Tuya.Pagos.Application.Services.Facturacion
 {
@@ -16,23 +17,67 @@ namespace Tuya.Pagos.Application.Services.Facturacion
             _pagosRepository = pagosRepository;
         }
 
-        public async Task createPagos()
+        public async Task<ResultadoTransaccionDto> CrearPago(CompraDto compraDto)
         {
-
-        }
-
-        public async Task createUser(UsuarioDto usuario)
-        {
-            Usuario user = new Usuario
+            try
             {
-                Nombres = usuario.Nombres,
-                Apellidos = usuario.Apellidos,
-                Direccion = usuario.Direccion,
-                Email = usuario.Email
 
-            };
-            _pagosRepository.Usuarios.Insert(user);
-            _pagosRepository.Save();
+                float total = 0;
+                foreach (var productos in compraDto.Productos)
+                {
+
+                    float costo = productos.Price;
+                    total = total + costo;
+                }
+                Transaccion transaccion = new Transaccion
+                {
+                    Total = total,
+                    Fecha = DateTime.Now,
+                    UsuarioId = compraDto.UserId
+                };
+
+                _pagosRepository.Transacciones.Insert(transaccion);
+                _pagosRepository.Save();
+
+                int id = transaccion.Id;
+
+                foreach (var productos in compraDto.Productos)
+                {
+                    TransaccionDetalle detalle = new TransaccionDetalle
+                    {
+                        ProductoId = productos.ProductId,
+                        TransaccionId = id
+                    };
+
+                    _pagosRepository.TransaccionDetalles.Insert(detalle);
+                }
+
+                Evento evento = new Evento
+                {
+                    TipoEvento = Eventos.PEDIDO_FACTURADO,
+                    TransaccionId = id,
+                    UltimaActualizacion = DateTime.Now,
+
+                };
+                _pagosRepository.Eventos.Insert(evento);
+
+
+                _pagosRepository.Save();
+
+                var response = new ResultadoTransaccionDto
+                {
+                    IdTransaccion = id,
+                    Productos = compraDto.Productos,
+                    UsuarioId = compraDto.UserId,
+                    TotalCompra = total
+                };
+                return response;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.ToString() + "Error");
+            }
         }
+
     }
 }

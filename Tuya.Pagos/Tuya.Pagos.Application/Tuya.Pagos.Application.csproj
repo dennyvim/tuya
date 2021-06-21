@@ -11,6 +11,7 @@
     <Folder Include="Services\Logistica\" />
     <Folder Include="DTO\" />
     <Folder Include="DTO\Services\" />
+    <Folder Include="Responses\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Tuya.Pagos.Data\Tuya.Pagos.Data.csproj" />
@@ -18,5 +19,6 @@
   <ItemGroup>
     <None Remove="DTO\" />
     <None Remove="DTO\Services\" />
+    <None Remove="Responses\" />
   </ItemGroup>
 </Project>
