@@ -1,5 +1,5 @@
 ﻿# Prueba técnica Tuya
-Por: Denny Edilberto Villalobos Martínez
+Por: Denny Edilberto Villalobos Martínez - Practicante
  
 ## Requisitos
 
