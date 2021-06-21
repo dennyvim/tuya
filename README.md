@@ -8,7 +8,7 @@ Por: Denny Edilberto Villalobos Martínez
  - Entity Framework CLI 
 
 ## Instalación
-Para correr este API primero debemos hacer la publicación por lo que ejecutaremos el sigiente comando sobre el proyecto Tuya.Pagos.WebAPi.csproj
+Para correr este API primero debemos hacer la publicación por lo que ejecutaremos el siguiente comando sobre el proyecto Tuya.Pagos.WebAPi.csproj
 
     dotnet publish -C release
 
