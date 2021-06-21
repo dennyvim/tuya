@@ -233,6 +233,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
         }
+      },
+      "Tuya.Pagos.Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Tuya.Pagos.Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tuya.Pagos.Utils.dll": {}
+        }
       }
     }
   },
@@ -750,11 +760,17 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Tuya.Pagos.Utils/1.0.0": {
+      "type": "project",
+      "path": "../Tuya.Pagos.Utils/Tuya.Pagos.Utils.csproj",
+      "msbuildProject": "../Tuya.Pagos.Utils/Tuya.Pagos.Utils.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.7"
+      "Microsoft.EntityFrameworkCore.Tools >= 5.0.7",
+      "Tuya.Pagos.Utils >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -781,7 +797,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Utils/Tuya.Pagos.Utils.csproj": {
+              "projectPath": "/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Utils/Tuya.Pagos.Utils.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

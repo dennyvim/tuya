@@ -1501,11 +1501,24 @@
       "Tuya.Pagos.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Tuya.Pagos.Utils": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Tuya.Pagos.Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/Tuya.Pagos.Domain.dll": {}
+        }
+      },
+      "Tuya.Pagos.Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Tuya.Pagos.Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tuya.Pagos.Utils.dll": {}
         }
       }
     }
@@ -5729,6 +5742,11 @@
       "type": "project",
       "path": "../Tuya.Pagos.Domain/Tuya.Pagos.Domain.csproj",
       "msbuildProject": "../Tuya.Pagos.Domain/Tuya.Pagos.Domain.csproj"
+    },
+    "Tuya.Pagos.Utils/1.0.0": {
+      "type": "project",
+      "path": "../Tuya.Pagos.Utils/Tuya.Pagos.Utils.csproj",
+      "msbuildProject": "../Tuya.Pagos.Utils/Tuya.Pagos.Utils.csproj"
     }
   },
   "projectFileDependencyGroups": {

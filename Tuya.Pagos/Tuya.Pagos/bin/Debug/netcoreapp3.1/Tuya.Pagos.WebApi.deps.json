@@ -39,6 +39,7 @@
           "Swashbuckle.AspNetCore": "6.1.4",
           "Tuya.Pagos.Application": "1.0.0",
           "Tuya.Pagos.Data": "1.0.0",
+          "Tuya.Pagos.Models": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -1486,11 +1487,22 @@
         }
       },
       "Tuya.Pagos.Domain/1.0.0": {
+        "dependencies": {
+          "Tuya.Pagos.Utils": "1.0.0"
+        },
         "runtime": {
           "Tuya.Pagos.Domain.dll": {}
         },
         "compile": {
           "Tuya.Pagos.Domain.dll": {}
+        }
+      },
+      "Tuya.Pagos.Utils/1.0.0": {
+        "runtime": {
+          "Tuya.Pagos.Utils.dll": {}
+        },
+        "compile": {
+          "Tuya.Pagos.Utils.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -3112,6 +3124,12 @@
           "WindowsBase.dll": {}
         },
         "compileOnly": true
+      },
+      "Tuya.Pagos.Models/1.0.0": {
+        "dependencies": {
+          "Tuya.Pagos.Application": "1.0.0"
+        },
+        "compileOnly": true
       }
     }
   },
@@ -3860,6 +3878,11 @@
       "sha512": ""
     },
     "Tuya.Pagos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tuya.Pagos.Utils/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -5211,6 +5234,11 @@
     },
     "WindowsBase/4.0.0.0": {
       "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tuya.Pagos.Models/1.0.0": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     }

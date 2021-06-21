@@ -20,11 +20,13 @@
     <Folder Include="Context\" />
     <Folder Include="Repositories\" />
     <Folder Include="UnitOfWork\" />
+    <Folder Include="Migrations\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Tuya.Pagos.Domain\Tuya.Pagos.Domain.csproj" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="UnitOfWork\" />
+    <None Remove="Migrations\" />
   </ItemGroup>
 </Project>

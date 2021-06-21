@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuya.Pagos.Domain", "Tuya.P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuya.Pagos.Data", "Tuya.Pagos.Data\Tuya.Pagos.Data.csproj", "{0DDFB894-A0EE-492B-B067-EC02BFA5EDEB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Common", "5. Common", "{4F000E76-6D33-4353-8A93-3B245218350A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuya.Pagos.Utils", "Tuya.Pagos.Utils\Tuya.Pagos.Utils.csproj", "{774AB434-E4C5-4062-B56F-590C9192FF28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +45,10 @@ Global
 		{0DDFB894-A0EE-492B-B067-EC02BFA5EDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DDFB894-A0EE-492B-B067-EC02BFA5EDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DDFB894-A0EE-492B-B067-EC02BFA5EDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774AB434-E4C5-4062-B56F-590C9192FF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774AB434-E4C5-4062-B56F-590C9192FF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774AB434-E4C5-4062-B56F-590C9192FF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774AB434-E4C5-4062-B56F-590C9192FF28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,5 +61,6 @@ Global
 		{C1CDA980-9E93-4E1D-8A8C-EFAC471E2C28} = {63739D62-73BB-4563-B407-F3532F372189}
 		{30D02ED4-F97D-4E3A-802F-B9455EC0FF05} = {85C9C677-EDAF-4F0A-A4DA-FF8563F15E5E}
 		{0DDFB894-A0EE-492B-B067-EC02BFA5EDEB} = {74EEB43A-352B-48DE-81BE-B125D60809CE}
+		{774AB434-E4C5-4062-B56F-590C9192FF28} = {4F000E76-6D33-4353-8A93-3B245218350A}
 	EndGlobalSection
 EndGlobal
