@@ -8,22 +8,31 @@ using Tuya.Pagos.Application.Services.Interface;
 
 namespace Tuya.Pagos.WebApi.Controllers
 {
-
     [Route("api/[controller]")]
     [ApiController]
     public class UsuarioController : ControllerBase
     {
-        private readonly IFacturacionService _facturacionService;
+        private readonly IUsuarioService _usuarioService;
 
-        public UsuarioController(IFacturacionService facturacionService)
+        public UsuarioController(IUsuarioService usuarioService)
         {
-            _facturacionService = facturacionService;
+            this._usuarioService = usuarioService;
         }
 
         [HttpPost(Name = "CrearUsuario")]
-        public void CrearUsuario(UsuarioDto usuario)
+        public async Task<IActionResult> CrearUsuario(UsuarioDto usuario)
         {
+            try
+            {
 
+                var creacionUsuario = await _usuarioService.CrearUsuario(usuario);
+
+                return Ok(creacionUsuario);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Fallo en creacion de usuario" + ex);
+            }
         }
     }
 }

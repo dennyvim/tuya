@@ -1,0 +1,16 @@
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Release/netcoreapp3.1/Tuya.Pagos.Application.deps.json
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Release/netcoreapp3.1/Tuya.Pagos.Application.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Release/netcoreapp3.1/Tuya.Pagos.Application.pdb
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Release/netcoreapp3.1/Tuya.Pagos.Data.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Release/netcoreapp3.1/Tuya.Pagos.Domain.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Release/netcoreapp3.1/Tuya.Pagos.Utils.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Release/netcoreapp3.1/Tuya.Pagos.Data.pdb
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Release/netcoreapp3.1/Tuya.Pagos.Domain.pdb
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Release/netcoreapp3.1/Tuya.Pagos.Utils.pdb
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Release/netcoreapp3.1/Tuya.Pagos.Application.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Release/netcoreapp3.1/Tuya.Pagos.Application.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Release/netcoreapp3.1/Tuya.Pagos.Application.AssemblyInfo.cs
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Release/netcoreapp3.1/Tuya.Pagos.Application.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Release/netcoreapp3.1/Tuya.Pagos.Application.csproj.CopyComplete
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Release/netcoreapp3.1/Tuya.Pagos.Application.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Release/netcoreapp3.1/Tuya.Pagos.Application.pdb

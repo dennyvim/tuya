@@ -1,0 +1,9 @@
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Utils/bin/Release/netcoreapp3.1/Tuya.Pagos.Utils.deps.json
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Utils/bin/Release/netcoreapp3.1/Tuya.Pagos.Utils.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Utils/bin/Release/netcoreapp3.1/Tuya.Pagos.Utils.pdb
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Utils/obj/Release/netcoreapp3.1/Tuya.Pagos.Utils.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Utils/obj/Release/netcoreapp3.1/Tuya.Pagos.Utils.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Utils/obj/Release/netcoreapp3.1/Tuya.Pagos.Utils.AssemblyInfo.cs
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Utils/obj/Release/netcoreapp3.1/Tuya.Pagos.Utils.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Utils/obj/Release/netcoreapp3.1/Tuya.Pagos.Utils.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Utils/obj/Release/netcoreapp3.1/Tuya.Pagos.Utils.pdb

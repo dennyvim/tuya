@@ -28,6 +28,9 @@
             "projectReferences": {
               "/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Data/Tuya.Pagos.Data.csproj": {
                 "projectPath": "/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Data/Tuya.Pagos.Data.csproj"
+              },
+              "/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/Tuya.Pagos.Domain.csproj": {
+                "projectPath": "/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/Tuya.Pagos.Domain.csproj"
               }
             }
           }

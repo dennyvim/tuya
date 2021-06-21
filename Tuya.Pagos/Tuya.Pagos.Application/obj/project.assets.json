@@ -5751,7 +5751,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Tuya.Pagos.Data >= 1.0.0"
+      "Tuya.Pagos.Data >= 1.0.0",
+      "Tuya.Pagos.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5781,6 +5782,9 @@
           "projectReferences": {
             "/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Data/Tuya.Pagos.Data.csproj": {
               "projectPath": "/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Data/Tuya.Pagos.Data.csproj"
+            },
+            "/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/Tuya.Pagos.Domain.csproj": {
+              "projectPath": "/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/Tuya.Pagos.Domain.csproj"
             }
           }
         }

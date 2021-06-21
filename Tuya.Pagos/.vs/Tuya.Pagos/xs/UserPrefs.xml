@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{F07BC082-8F81-4DEE-ABA9-C359E3F539B9}|Tuya.Pagos">
   <MonoDevelop.Ide.Workbench ActiveDocument="Tuya.Pagos/Controllers/ProductosController.cs">
     <Files>
-      <File FileName="Tuya.Pagos/Controllers/PagosController.cs" Line="46" Column="74" />
-      <File FileName="Tuya.Pagos.Application/Services/Logistica/LogisticaService.cs" Line="42" Column="1" />
-      <File FileName="Tuya.Pagos.Domain/Entities/Evento.cs" Line="14" Column="1" />
-      <File FileName="Tuya.Pagos.Data/Repositories/Repository.cs" Line="80" Column="1" />
-      <File FileName="Tuya.Pagos/Controllers/UsuarioController.cs" Line="1" Column="1" />
-      <File FileName="Tuya.Pagos/Controllers/ProductosController.cs" Line="1" Column="1" />
+      <File FileName="Tuya.Pagos/Controllers/UsuarioController.cs" Line="11" Column="32" />
+      <File FileName="Tuya.Pagos/Startup.cs" Line="41" Column="14" />
+      <File FileName="Tuya.Pagos.Application/DTO/Services/ProductoDto.cs" Line="11" Column="1" />
+      <File FileName="Tuya.Pagos.Application/Services/Producto/ProductoService.cs" Line="27" Column="1" />
+      <File FileName="Tuya.Pagos/Handlers/DependencyInjectionHandler.cs" Line="27" Column="72" />
+      <File FileName="Tuya.Pagos/Controllers/ProductosController.cs" Line="23" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,20 +14,27 @@
           <Node name="Tuya.Pagos" expanded="True">
             <Node name="1. Presentation" expanded="True">
               <Node name="Tuya.Pagos.WebApi" expanded="True">
-                <Node name="Dependencies" expanded="True">
-                  <Node name="ProjectDependencies" expanded="True" />
-                </Node>
                 <Node name="Controllers" expanded="True">
                   <Node name="ProductosController.cs" selected="True" />
                 </Node>
+                <Node name="Handlers" expanded="True" />
               </Node>
             </Node>
             <Node name="2. Application" expanded="True">
               <Node name="Tuya.Pagos.Application" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="ProjectDependencies" expanded="True" />
+                </Node>
                 <Node name="DTO" expanded="True">
                   <Node name="Services" expanded="True" />
                 </Node>
                 <Node name="Responses" expanded="True" />
+                <Node name="Services" expanded="True">
+                  <Node name="Facturacion" expanded="True" />
+                  <Node name="Interface" expanded="True" />
+                  <Node name="Producto" expanded="True" />
+                  <Node name="Usuario" expanded="True" />
+                </Node>
               </Node>
             </Node>
             <Node name="3. Domain" expanded="True">
