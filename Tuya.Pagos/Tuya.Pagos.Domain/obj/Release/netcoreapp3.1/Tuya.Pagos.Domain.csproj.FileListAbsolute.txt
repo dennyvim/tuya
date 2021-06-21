@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/bin/Release/netcoreapp3.1/Tuya.Pagos.Domain.deps.json
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/bin/Release/netcoreapp3.1/Tuya.Pagos.Domain.runtimeconfig.json
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/bin/Release/netcoreapp3.1/Tuya.Pagos.Domain.runtimeconfig.dev.json
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/bin/Release/netcoreapp3.1/Tuya.Pagos.Domain.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/bin/Release/netcoreapp3.1/Tuya.Pagos.Domain.pdb
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/bin/Release/netcoreapp3.1/Tuya.Pagos.Utils.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/bin/Release/netcoreapp3.1/Tuya.Pagos.Utils.pdb
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/obj/Release/netcoreapp3.1/Tuya.Pagos.Domain.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/obj/Release/netcoreapp3.1/Tuya.Pagos.Domain.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/obj/Release/netcoreapp3.1/Tuya.Pagos.Domain.AssemblyInfo.cs
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/obj/Release/netcoreapp3.1/Tuya.Pagos.Domain.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/obj/Release/netcoreapp3.1/Tuya.Pagos.Domain.csproj.CopyComplete
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/obj/Release/netcoreapp3.1/Tuya.Pagos.Domain.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/obj/Release/netcoreapp3.1/Tuya.Pagos.Domain.pdb
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Domain/obj/Release/netcoreapp3.1/Tuya.Pagos.Domain.genruntimeconfig.cache

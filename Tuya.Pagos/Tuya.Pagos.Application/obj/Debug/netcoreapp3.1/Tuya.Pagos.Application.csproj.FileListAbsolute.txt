@@ -1,0 +1,30 @@
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Debug/netcoreapp3.1/Tuya.Pagos.Application.deps.json
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Debug/netcoreapp3.1/Tuya.Pagos.Application.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Debug/netcoreapp3.1/Tuya.Pagos.Application.pdb
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Debug/netcoreapp3.1/Tuya.Pagos.Data.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Debug/netcoreapp3.1/Tuya.Pagos.Domain.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Debug/netcoreapp3.1/Tuya.Pagos.Data.pdb
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Debug/netcoreapp3.1/Tuya.Pagos.Domain.pdb
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Debug/netcoreapp3.1/Tuya.Pagos.Application.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Debug/netcoreapp3.1/Tuya.Pagos.Application.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Debug/netcoreapp3.1/Tuya.Pagos.Application.AssemblyInfo.cs
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Debug/netcoreapp3.1/Tuya.Pagos.Application.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Debug/netcoreapp3.1/Tuya.Pagos.Application.csproj.CopyComplete
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Debug/netcoreapp3.1/Tuya.Pagos.Application.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Debug/netcoreapp3.1/Tuya.Pagos.Application.pdb
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Debug/netcoreapp3.1/Tuya.Pagos.Application.deps.json
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Debug/netcoreapp3.1/Tuya.Pagos.Application.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Debug/netcoreapp3.1/Tuya.Pagos.Application.pdb
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Debug/netcoreapp3.1/Tuya.Pagos.Data.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Debug/netcoreapp3.1/Tuya.Pagos.Domain.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Debug/netcoreapp3.1/Tuya.Pagos.Data.pdb
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Debug/netcoreapp3.1/Tuya.Pagos.Domain.pdb
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Debug/netcoreapp3.1/Tuya.Pagos.Application.csprojAssemblyReference.cache
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Debug/netcoreapp3.1/Tuya.Pagos.Application.AssemblyInfoInputs.cache
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Debug/netcoreapp3.1/Tuya.Pagos.Application.AssemblyInfo.cs
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Debug/netcoreapp3.1/Tuya.Pagos.Application.csproj.CoreCompileInputs.cache
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Debug/netcoreapp3.1/Tuya.Pagos.Application.csproj.CopyComplete
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Debug/netcoreapp3.1/Tuya.Pagos.Application.dll
+//vmware-host/Shared Folders/Escritorio/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/obj/Debug/netcoreapp3.1/Tuya.Pagos.Application.pdb
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Debug/netcoreapp3.1/Tuya.Pagos.Utils.dll
+/Users/macos/Desktop/Prueba técnica Tuya/Tuya.Pagos/Tuya.Pagos.Application/bin/Debug/netcoreapp3.1/Tuya.Pagos.Utils.pdb
